@@ -2187,7 +2187,7 @@ import java.util.Arrays;
 //          //COUNTING SORT
 // import java.util.ArrayList;
 
-// class GfG {
+// class main {
 //     public static ArrayList<Integer> countsort(int arr[]) {
 //         int n = arr.length;
 
@@ -2230,6 +2230,7 @@ import java.util.Arrays;
 //             System.out.print(x + " ");
 //     }
 // }
+
 
 
 
