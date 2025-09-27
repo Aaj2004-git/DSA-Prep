@@ -1,4 +1,4 @@
-#Data Structures & Algorithms in Java
+##Data Structures & Algorithms in Java
 
 This repository contains my DSA practice with Java.
 I’ve been learning step by step, solving problems, and committing my code here to track progress and build strong problem-solving skills 🚀.
