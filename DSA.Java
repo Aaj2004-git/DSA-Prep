@@ -2319,7 +2319,7 @@ import java.util.Arrays;
 //     COMB SORT
 
 // import java.io.*;
-// public class CombSort
+// public class main
 // {
 //     // To find gap between elements
 //     int getNextGap(int gap)
@@ -2390,7 +2390,7 @@ import java.util.Arrays;
 
 //       SHELL SORT
 
-//  class ShellSort
+//  class main
 // {
 //     /* An utility function to print array of size n*/
 //     static void printArray(int arr[])
@@ -2455,7 +2455,7 @@ import java.util.Arrays;
 // import java.util.*;
 // import java.lang.*;
 
-// class GFG {
+// class main {
 //     // Function sort the array using Cycle sort
 //     public static void cycleSort(int arr[], int n)
 //     {
@@ -2529,6 +2529,7 @@ import java.util.Arrays;
 // }
 
 // // Code Contributed by Mohit Gupta_OMG <(0_o)>
+
 
 
 
