@@ -2564,6 +2564,14 @@ B-Tree
 
 //Implementation in Java:
 
+Trees are typically implemented in Java using classes to represent nodes.
+Each node class would contain the data it holds and references to its child nodes.
+For example, a binary tree node might have fields for data, leftChild, and rightChild.
+Operations like insertion, deletion, and various traversal methods
+(in-order, pre-order, post-order) are then implemented as methods within these node 
+classes or in a separate tree class.
+
+
 
 
 
