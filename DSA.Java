@@ -2556,6 +2556,12 @@ Subtree: A portion of a tree that is itself a tree, rooted at one of the origina
 
 //Types of Trees commonly implemented in Java:
 General Tree
+Binary Tree
+Binary Search Tree (BST)
+AVL Tree
+Red-Black Tree
+B-Tree
+
 
 
 
