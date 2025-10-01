@@ -2545,9 +2545,17 @@ In Java, "trees" refer to a fundamental non-linear data structure used to store 
 Unlike linear structures like arrays or linked lists, trees represent relationships between data elements in a parent-child manner.
 
 
+//Key Concepts of Trees:
+Nodes: The basic building blocks of a tree, each containing data and references (or pointers) to its children.
+Root Node: The topmost node in a tree, having no parent.
+Parent Node: A node that has one or more child nodes.
+Child Node: A node directly connected to another node (its parent) in a lower level.
+Leaf Node: A node that has no children.
+Edge: The link or connection between two nodes.
+Subtree: A portion of a tree that is itself a tree, rooted at one of the original tree's nodes.
 
-
-
+//Types of Trees commonly implemented in Java:
+General Tree
 
 
 
