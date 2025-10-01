@@ -2540,6 +2540,15 @@ import java.util.Arrays;
 
 
 
+//TREES
+In Java, "trees" refer to a fundamental non-linear data structure used to store and organize data hierarchically.
+Unlike linear structures like arrays or linked lists, trees represent relationships between data elements in a parent-child manner.
+
+
+
+
+
+
 
 
 
