@@ -2571,8 +2571,18 @@ Operations like insertion, deletion, and various traversal methods
 (in-order, pre-order, post-order) are then implemented as methods within these node 
 classes or in a separate tree class.
 
+//code
+class TreeNode {
+    int data;
+    TreeNode left;
+    TreeNode right;
 
-
+    public TreeNode(int data) {
+        this.data = data;
+        this.left = null;
+        this.right = null;
+    }
+}
 
 
 
