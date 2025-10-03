@@ -2615,7 +2615,7 @@ class Node {
     }
 }
 
-class GfG {
+class main {
     public static void main(String[] args) {
         // Initialize and allocate memory for tree nodes
         Node firstNode = new Node(2);
@@ -2630,6 +2630,7 @@ class GfG {
 
     }
 }
+
 
 
 
