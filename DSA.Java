@@ -33,7 +33,7 @@
 
 //        Q.3)THE AVG. MARKS OF PHYSICS
 //        float []marks ={34.6f,90.8f,78.5f,34.7f,99.9f};
-//        float sum = 0;
+//        float sum = 0;  
 //        for(float element:marks){
 //            sum = sum + element;
 //        }
@@ -2638,6 +2638,7 @@ class main {
 
 
 //New Code
+
 
 
 
