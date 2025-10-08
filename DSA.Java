@@ -5,7 +5,7 @@
 
 
 
-
+   
 //        Q.1)TO PRINT THE SUM OF ARRAY
 //        float sum = 0;
 //        float [] marks ={45.6f,89.3f,47.9f,23.4f,99.0f};
@@ -2638,6 +2638,7 @@ class main {
 
 
 //New Code
+
 
 
 
